@@ -1,0 +1,1 @@
+from software repositories. It does not install or upgrade any software. The apt upgrade command installs newer versions of packages that are already installed on the system. We should run apt update before apt upgrade so that Ubuntu has the latest package information.
